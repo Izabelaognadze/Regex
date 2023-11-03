@@ -1,4 +1,3 @@
-# Regex
 # Regular Expressions
 
 ## Test Method
